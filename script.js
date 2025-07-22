@@ -42,6 +42,12 @@ let products = {
         price: "249",
         image:"wat.webp",
     },
+    {
+        productName:"black hat",
+        category:"hat",
+        price:"98",
+        image:"h1.jpg",
+    },
  ]
 
 };
