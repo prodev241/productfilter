@@ -76,6 +76,7 @@ for(let i of products.data){
     let price = document.createElement("h6");
     price.innerText = '$'+ i.price;
     container.appendChild(price);
+    
 
     card.appendChild(container);
     document.getElementById("products").appendChild(card);
